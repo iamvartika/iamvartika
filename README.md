@@ -1,6 +1,8 @@
 
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/vartikasrivastava25/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:vartika0198@gmail.com)
-### Hi there 👋
+### Hey there 👋
+
+I’m Vartika, currently a fresher in the tech field.
 
 <!--
 **iamvartika/iamvartika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
