@@ -3,7 +3,7 @@
 ### Hey there 👋 I'm Vartika Srivastava and
 
 
-- 🔭 I’m currently working on ... JavaScript 
+- 🔭 I’m currently working on ... Java
 - 🌱 I’m currently learning ... JavaScript
 
 
