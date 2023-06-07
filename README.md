@@ -3,8 +3,8 @@
 ### Hey there 👋 I'm Vartika Srivastava
 
 
-- 🔭 I’m currently working on ... Java
-- 🌱 I’m currently learning ... JavaScript
+- 🔭 I’m currently working on ... Java, Spring Boot & MySQL
+- 🌱 I’m currently learning ... NoSQL
 
 
 <!--
